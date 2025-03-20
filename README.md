@@ -9,9 +9,9 @@ I'm a seasoned programmer with decades of experience, navigating the digital lan
 - **Other Skills:** 20 years of experience with Propellerhead Reason.
 
 ## Currently Learning
-- **Big Data Technologies and AI:** Diving into methodologies and excited about current advancements.
+- **Big Data and AI:** Diving into methodologies and excited about current advancements.
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/unityrobot-todd-smith-878336357/)
-- [X, formerly Twitter](https://x.com/UnityRobot)
+- [X](https://x.com/UnityRobot)
 - [Email](mailto:unityrobot007@gmail.com)
