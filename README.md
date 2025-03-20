@@ -5,11 +5,11 @@ I'm a seasoned programmer with decades of experience, navigating the digital lan
 
 ## Skills
 - **Languages:** HTML, CSS, JavaScript, C, and more. My first computer: TRS-80
-- **Version Control:** Git & GitHub
+- **Version Control:** Git & GitHub (learning for personal projects)
 - **Other Skills:** 20 years of experience with Propellerhead Reason.
 
 ## Currently Learning
-I'm currently diving into big data technologies and methodologies, and I'm excited to expand my knowledge in this rapidly evolving field.
+- **Big Data Technologies and AI:** Diving into methodologies and excited about current advancements.
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/unityrobot-todd-smith-878336357/)
